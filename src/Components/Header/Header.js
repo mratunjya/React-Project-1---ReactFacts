@@ -11,7 +11,7 @@ function Header() {
                 </div>
                 <div className="company-name">ReactFacts</div>
             </div>
-            <div className="project"><a href="https://github.com/">React Course - Project 1</a></div>
+            <div className="project"><a href="https://github.com/mratunjya/React-Project-1---ReactFacts">React Course - Project 1</a></div>
         </div>
     )
 }
