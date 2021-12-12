@@ -1,0 +1,23 @@
+.header {
+    background-color: #21222A;
+    padding: 31px 27px 32px 26px;
+}
+
+.header * {
+    color: #DEEBF8;
+}
+
+.company-name {
+    color: #61DAFB;
+    font-size: 22.25px;
+    font-weight: 700;
+    line-height: 26.93px;
+}
+
+.logo {
+    margin-right: 6.68px;
+}
+
+.project {
+    margin-left: 30px;
+}

@@ -1,0 +1,23 @@
+.point {
+    margin-left: 24px;
+    margin-top: 20.36px;
+}
+
+.point * {
+    font-size: 16px;
+    line-height: 19.36px;
+}
+
+.blue-bullet {
+    display: block;
+    background-color: #61DAFB;
+    border-radius: 50%;
+    height: 9.6px;
+    min-height: 9.6px;
+    max-height: 9.6px;
+    margin-right: 13.39px;
+    width: 9.6px;
+    min-width: 9.6px;
+    max-width: 9.6px;
+    margin-top: 4px;
+}

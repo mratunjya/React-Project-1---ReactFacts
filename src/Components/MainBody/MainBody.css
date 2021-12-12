@@ -1,0 +1,19 @@
+.main-body {
+    background-color: #282D35;
+    box-sizing: border-box;
+    padding: 57px 86px 125px 27px;
+    background-image: url('BackgroundLogo.svg');
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.main-body * {
+    color: #fff;
+}
+
+.main-body h1 {
+    font-size: 39.06px;
+    font-weight: 700;
+    line-height: 45px;
+    margin-bottom: 46px;
+}

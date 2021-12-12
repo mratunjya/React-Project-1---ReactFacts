@@ -1,0 +1,6 @@
+@import url('./Components/CSS/master.css');
+
+.root {
+    background-color: #282D35;
+    min-height: 100vh;
+}
